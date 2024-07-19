@@ -35,6 +35,8 @@ Os componentes utilizados no projeto são:
 - **Sensor de Álcool**: Sensor MQ-3.
 
 
-## Créditos
+## Créditos e Direitos Autorais
 
 Este projeto foi criador por [Lucas Rayan](https://www.linkedin.com/in/lucasrguerra/) (vulgo "eu") e [Vitória das Dores](https://www.linkedin.com/in/vitoria-das-dores/), e continua sendo mantido por eles.
+
+O projeto não é de código aberto, e não pode ser utilizado sem a permissão dos autores e sem a devida citação dos mesmos.
